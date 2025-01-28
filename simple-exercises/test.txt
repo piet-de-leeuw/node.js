@@ -1,0 +1,2 @@
+This file and text are replaced using fs.writeFile
+This text is appended using fs.append
